@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnimalCounterApp",
+            "request": "launch",
+            "mainClass": "AnimalCounter.AnimalCounterApp",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "AnimalCounter.test",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "testAnimalCounterApp",
+            "request": "launch",
+            "mainClass": "AnimalCounter.testAnimalCounterApp",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "MusicApp",
+            "request": "launch",
+            "mainClass": "ArtistsandAlbum.MusicApp",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "DiceRoller",
+            "request": "launch",
+            "mainClass": "DiceRoller.DiceRoller",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "tryingMathRandom",
+            "request": "launch",
+            "mainClass": "DiceRoller.tryingMathRandom",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "GradeConverter",
+            "request": "launch",
+            "mainClass": "GradeConverter.GradeConverter",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumApp",
+            "request": "launch",
+            "mainClass": "GuessNumber.GuessNumApp",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "test(1)",
+            "request": "launch",
+            "mainClass": "GuessNumber.test",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveGuess",
+            "request": "launch",
+            "mainClass": "GuessNumberApp.RecursiveGuess",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "MoviesApp",
+            "request": "launch",
+            "mainClass": "MovieList.MoviesApp",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "test(2)",
+            "request": "launch",
+            "mainClass": "MovieList.test",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "TestBookExample",
+            "request": "launch",
+            "mainClass": "TicTacToeGame.TestBookExample",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToeGame",
+            "request": "launch",
+            "mainClass": "TicTacToeGame.TicTacToeGame",
+            "projectName": "src_fa845fd3"
+        },
+        {
+            "type": "java",
+            "name": "TryingTicTacToeGame",
+            "request": "launch",
+            "mainClass": "TicTacToeGame.TryingTicTacToeGame",
+            "projectName": "src_fa845fd3"
+        }
+    ]
+}
